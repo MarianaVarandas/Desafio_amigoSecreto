@@ -1,7 +1,6 @@
 # 🎁 Amigo Secreto
 
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen)
-![Licença](https://img.shields.io/badge/licença-MIT-blue)
 ![JavaScript](https://img.shields.io/badge/javascript-ES6+-yellow)
 ![HTML5](https://img.shields.io/badge/html-5-orange)
 ![CSS3](https://img.shields.io/badge/css-3-blue)
@@ -47,22 +46,11 @@ O HTML e o CSS foram fornecidos pelo curso, e a lógica em **JavaScript** foi de
 
 ---
 
-## 📂 Estrutura do Projeto
-
-/
-├── index.html # Estrutura da página (fornecido pelo curso)
-├── style.css # Estilos visuais (fornecido pelo curso)
-├── app.js # Lógica desenvolvida por mim
-├── assets/ # Imagens e ícones
-└── README.md # Documentação
-
----
-
 ## ⚙️ Como Usar
 
 1. Clone este repositório:
 
-   git clone https://github.com/SEU_USUARIO/Desafio_amigoSecreto.git
+   git clone https://github.com/MarianaVarandas/Desafio_amigoSecreto
 
 2. Acesse a pasta do projeto:
 
